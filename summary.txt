@@ -1,0 +1,8 @@
+Scramble classes:
+
+Bag
+Tile
+Rack
+Player
+Board
+Square
